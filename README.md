@@ -12,10 +12,10 @@
 
 > 红米AC2100
 
-普通版，lienol openwrt源码，插件数量多。
+普通版，lienol openwrt源码，插件数量适当。
 
-特别版，lienol openwrt源码，在普通版的基础上增加网易云音乐解锁。
+特别版，lienol openwrt源码，插件数量丰富，带网易云音乐解锁。
 
 特别版，lean lede源码，插件数量少。
 
-特别版，lienol openwrt源码，在普通版的基础上增加CPU超频。
+特别版，lienol openwrt源码，插件数量丰富，CPU超频。
